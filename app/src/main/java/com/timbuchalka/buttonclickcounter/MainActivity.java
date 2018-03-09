@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: out");
 
     }
-
+//onStart
     @Override
     protected void onStart() {
         Log.d(TAG, "onStart: in");
